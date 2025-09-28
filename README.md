@@ -158,7 +158,7 @@
 
 
 
-5.「文字列だけを抜き出す正規表現」」を書きます。
+5.「文字列だけを抜き出す正規表現」を書きます。
 
 
 
@@ -180,7 +180,7 @@
 
 
  
-6.「大文字の英数字だけを抜き出す正規表現」」を書きます。
+6.「大文字の英数字だけを抜き出す正規表現」を書きます。
 
 
 
@@ -280,7 +280,7 @@
 
 
 
-9. 同じ文字列の数値の正規表現だけ一致した値だけ繰り返し見つけるように書きます。
+9. 同じ文字列の数値の正規表現だけ一致した値だけ繰り返し見つけて表示します。
 
 
 
@@ -303,7 +303,7 @@
 
 
 
-10.
+10.英数字の大文字の文字列だけに一致した値を繰り返し見つけて表示します。
 
 
 
@@ -313,6 +313,47 @@
 
 
 
+
+<img width="808" height="206" alt="スクリーンショット 2025-09-28 151328" src="https://github.com/user-attachments/assets/d1fc0703-fd0d-4835-b212-a5530102a03d" />
+
+
+
+
+
+
+
+
+
+
+11.漢字、カタカナ、ひらがなの日本語にマッチする正規表現の値を繰り返し見つけて表示します。
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="925" height="199" alt="スクリーンショット 2025-09-28 151526" src="https://github.com/user-attachments/assets/d92d2a81-2cbd-4791-81a3-c43de1c13ceb" />
+
+
+
+
+
+
+12.英数字以外の文字列だけマッチする正規表現の値を繰り返し見つけて表示します。
+
+
+
+
+
+
+
+<img width="890" height="199" alt="スクリーンショット 2025-09-28 151607" src="https://github.com/user-attachments/assets/fd2661ab-2189-4d74-ae37-94dc85a0ee28" />
 
 
 
@@ -327,9 +368,386 @@
 
 ---
 ## ✅実行結果
-### 
 
-9.
+
+
+
+1.文字列型のリストのrandamListにランダムな文字列の値
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="199" height="24" alt="スクリーンショット 2025-09-28 151710" src="https://github.com/user-attachments/assets/97eda07d-83a6-43e7-962f-75f56abe74e6" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.同じ数字だけを抜き出す正規表現の値
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="91" height="48" alt="スクリーンショット 2025-09-28 151842" src="https://github.com/user-attachments/assets/01817132-6d64-42b3-a539-577b5bd9edc0" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. 違う数字だけを抜き出す正規表現の値
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="59" height="194" alt="スクリーンショット 2025-09-28 151951" src="https://github.com/user-attachments/assets/6b6d8137-c4bf-48ab-89f0-2f9e82556a51" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.文字列だけを抜き出す正規表現の値
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="267" height="197" alt="スクリーンショット 2025-09-28 152117" src="https://github.com/user-attachments/assets/069c400e-665c-4495-9d7a-d2e6a143bc97" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="267" height="226" alt="スクリーンショット 2025-09-28 153244" src="https://github.com/user-attachments/assets/60540f3e-eb7e-4cd3-b2aa-8eb66fd1b901" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="277" height="196" alt="スクリーンショット 2025-09-28 153506" src="https://github.com/user-attachments/assets/fb5f2a17-8091-4de7-b964-4ae25b9b24e3" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="267" height="55" alt="スクリーンショット 2025-09-28 153627" src="https://github.com/user-attachments/assets/46d7a798-fc26-4753-b971-feb57fa0f6c3" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6.大文字の英数字だけを抜き出す正規表現の値
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="305" height="187" alt="スクリーンショット 2025-09-28 153703" src="https://github.com/user-attachments/assets/cceef52e-4af2-4775-aab1-96536a0ae44f" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="335" height="161" alt="スクリーンショット 2025-09-28 153737" src="https://github.com/user-attachments/assets/fbb39953-2a3a-4444-89ac-96083fb5c22c" />
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="352" height="80" alt="スクリーンショット 2025-09-28 164536" src="https://github.com/user-attachments/assets/a76dd716-f02a-4670-a523-29a5980aabb1" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7.漢字、カタカナ、ひらがなの日本語にマッチする正規表現の値
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="418" height="224" alt="スクリーンショット 2025-09-28 164657" src="https://github.com/user-attachments/assets/706226b8-8e30-4cb5-baac-4df4b3244984" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="470" height="81" alt="スクリーンショット 2025-09-28 164719" src="https://github.com/user-attachments/assets/5a76fa39-452d-4889-a059-6b32b56f318a" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8. 英数字以外文字列だけ抜き出す正規表現の値
+
+
+
+
+
 
 
 
@@ -381,7 +799,7 @@
 
 
 
-・findを使うので、無限ループに陥る事はない事が、分かりました。
+・findメソッドを使うので、無限ループに陥る事はない事が、分かりました。
 
 
 ---
